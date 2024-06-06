@@ -36,34 +36,20 @@ https://book.getfoundry.sh/
 
 ## Usage
 
-### Build
+### openzeppelin-contracts
 
-```shell
-$ forge build
+```forge install openzeppelin/openzeppelin-contracts@v4.8.3 --no-commit
 ```
 
-### Test
+### chainlink-brownie-contracts
 
-```shell
-$ forge test
+```forge install smartcontractkit/chainlink-brownie-contracts@1.1.1 --no-commit
 ```
 
-### Format
+### compile
 
 ```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
+$ forge compile
 ```
 
 ### Deploy
