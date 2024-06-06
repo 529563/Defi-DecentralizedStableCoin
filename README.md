@@ -39,13 +39,13 @@ https://book.getfoundry.sh/
 ### openzeppelin-contracts
 
 ```shell
-**forge install openzeppelin/openzeppelin-contracts@v4.8.3 --no-commit**
+forge install openzeppelin/openzeppelin-contracts@v4.8.3 --no-commit
 ```
 
 ### chainlink-brownie-contracts
 
 ```shell
-**forge install smartcontractkit/chainlink-brownie-contracts@1.1.1 --no-commit**
+forge install smartcontractkit/chainlink-brownie-contracts@1.1.1 --no-commit
 ```
 
 ### compile
